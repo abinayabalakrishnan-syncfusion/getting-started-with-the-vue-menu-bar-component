@@ -1,6 +1,5 @@
 # Getting Started with the Vue Menu Bar Component
 
-**Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to integrate and configure the Syncfusion Vue Menu Bar component in a Vue application.
 
 A quick start Vue project that shows how to add a Menu Bar component to a Vue app. This project also includes example code to bind hierarchical data, self‑referential data, and complex data sources to the Menu Bar component.
